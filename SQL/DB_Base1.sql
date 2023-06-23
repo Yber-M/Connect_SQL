@@ -1,10 +1,23 @@
+/* INICIO DB */
+-- Eliminando la BD por si existe
+IF DB_ID('BASE1') is not null
+   DROP DATABASE TIENDA_INFORMATICA
+GO
+
+-- Creamos el DB
 CREATE DATABASE BASE1;
 
+-- Usamo el DB
 USE BASE1;
 
+-- CREAMOS TABLA PRODUCTO
 CREATE TABLE PRODUCTO (
-	codigo INT 
+	codigo INT IDENTITY (1 ,1) PRIMARY KEY not null,
+	descripcion VARCHAR(50) null,
+	precio FLOAT
 );
 GO
 
--- 1:11:43
+SELECT * FROM PRODUCTO;
+
+-- TIEMPO VIDEO -> 1:15:38
