@@ -21,7 +21,7 @@ namespace Proyecto12
         private void btnGuardar_Click(object sender, EventArgs e)
         {
             // Cadena de conexión y abrimos la conexión a la base de datos
-            SqlConnection conexion = new SqlConnection("server = . ; database = base1 ; integrated security = true");
+            SqlConnection conexion = new SqlConnection("server = . ; database = BASE1 ; integrated security = true");
 
             // Aperturamos la conexión
             conexion.Open();
