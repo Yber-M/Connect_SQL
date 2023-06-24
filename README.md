@@ -1,9 +1,11 @@
 # Conectar SQL con C#
 
-Se usa como ejemplo la base de datos de una tienda de productos aparatos electrónicos.
+Se usa como ejemplo una tienda de productos que vende aparatos electrónicos(TV, Laptops, Celulares, etc).
 
 * Subir datos al DB
 * Consultar todos el registro del DB
-* Consultar por ID los productos del DB
+* Consultar por ID los datos del DB
+* Actualizar datos del DB
+* Eliminar los datos del DB
 
 ###### Psdt: Se está usando el IDE Visual Studio 2022
