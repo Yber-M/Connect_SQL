@@ -1,6 +1,8 @@
 # Conectar SQL con C#
 
-Se usa como ejemplo una tienda de productos que vende aparatos electrónicos(TV, Laptops, Celulares, etc).
+Se usa de ejemplo una tienda de productos que vende aparatos electrónicos y una tienda automovilistica.
+
+## **> CRUD**
 
 * Subir datos al DB
 * Consultar todos el registro del DB
