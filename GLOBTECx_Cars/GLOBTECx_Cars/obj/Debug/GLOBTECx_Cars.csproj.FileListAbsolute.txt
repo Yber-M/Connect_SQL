@@ -1,0 +1,11 @@
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\bin\Debug\GLOBTECx_Cars.exe.config
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\bin\Debug\GLOBTECx_Cars.exe
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\bin\Debug\GLOBTECx_Cars.pdb
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\obj\Debug\GLOBTECx_Cars.csproj.AssemblyReference.cache
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\obj\Debug\GLOBTECx_Cars.csproj.SuggestedBindingRedirects.cache
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\obj\Debug\GLOBTECx_Cars.Properties.Resources.resources
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\obj\Debug\GLOBTECx_Cars.csproj.GenerateResource.cache
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\obj\Debug\GLOBTECx_Cars.csproj.CoreCompileInputs.cache
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\obj\Debug\GLOBTECx_Cars.exe
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\obj\Debug\GLOBTECx_Cars.pdb
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\GLOBTECx_Cars\GLOBTECx_Cars\obj\Debug\GLOBTECx_Cars.FrmAddCar.resources
