@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Proyecto12
 {
-    public partial class Form2 : Form
+    public partial class ConsultarDatosDB : Form
     {
-        public Form2()
+        public ConsultarDatosDB()
         {
             InitializeComponent();
         }
@@ -46,11 +46,11 @@ namespace Proyecto12
             {
                 // Mostramos en la TextBox el CÓDGIO
                 tbxProductos.AppendText(registros["codigo"].ToString());
-                tbxProductos.AppendText("-");
+                tbxProductos.AppendText(" :: ");
 
                 // Mostramos en la TextBox el DESCRIPCIÓN
                 tbxProductos.AppendText(registros["descripcion"].ToString());
-                tbxProductos.AppendText("-");
+                tbxProductos.AppendText(" :: ");
 
                 // Mostramos en la TextBox el PRECIO
                 tbxProductos.AppendText(registros["precio"].ToString());
