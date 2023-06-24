@@ -1,7 +1,7 @@
 /* INICIO DB */
 -- Eliminando la BD por si existe
 IF DB_ID('BASE1') is not null
-   DROP DATABASE TIENDA_INFORMATICA
+   DROP DATABASE BASE1
 GO
 
 -- Creamos el DB
@@ -20,4 +20,4 @@ GO
 
 SELECT * FROM PRODUCTO;
 
--- TIEMPO VIDEO -> 1:15:38
+-- TIEMPO VIDEO -> 1:18:07

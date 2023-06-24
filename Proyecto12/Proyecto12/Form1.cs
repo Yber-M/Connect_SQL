@@ -21,7 +21,7 @@ namespace Proyecto12
         private void btnGuardar_Click(object sender, EventArgs e)
         {
             // Cadena de conexión y abrimos la conexión a la base de datos
-            SqlConnection conexion = new SqlConnection("server = . ; database = BASE1 ; integrated security = true");
+            SqlConnection conexion = new SqlConnection("server = YB-M\\YBM ; database = BASE1 ; integrated security = true");
 
             // Aperturamos la conexión
             conexion.Open();
@@ -49,6 +49,13 @@ namespace Proyecto12
 
             // Cerramos la conexión
             conexion.Close();
+        }
+
+        
+        private void btnCerrar_Click(object sender, EventArgs e)
+        {
+            // Cierra el programa
+            this.Close();
         }
     }
 }
