@@ -6,4 +6,4 @@ Se usa como ejemplo la base de datos de una tienda de productos aparatos electr�
 * Consultar todos el registro del DB
 * Consultar por ID los productos del DB
 
-###### Psdt: Se está usando el IDE de Visual Studio 2022
+###### Psdt: Se está usando el IDE Visual Studio 2022
