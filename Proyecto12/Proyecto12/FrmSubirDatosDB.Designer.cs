@@ -1,6 +1,6 @@
 ﻿namespace Proyecto12
 {
-    partial class SubirDatosDB
+    partial class FrmSubirDatosDB
     {
         /// <summary>
         /// Variable del diseñador necesaria.

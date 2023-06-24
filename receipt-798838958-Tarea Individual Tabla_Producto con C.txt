@@ -1,0 +1,7 @@
+La entrega se realizó correctamente.
+Curso: 798838958, 202301-D-GESTIÓN DE DATOS E INFORMACIÓN I-A1T1
+Actividad: Tarea Individual Tabla_Producto con C#
+
+Fecha de entrega: 23/6/23 23:58
+Remitente: MARLON YBER QUISPE OLANO
+Número de confirmación: 40dcf73524904382ac80b902c2bfa0bc

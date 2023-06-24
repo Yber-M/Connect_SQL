@@ -46,34 +46,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SubirDatosDB.cs">
+    <Compile Include="FrmActualizarDatosDB.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SubirDatosDB.Designer.cs">
-      <DependentUpon>SubirDatosDB.cs</DependentUpon>
+    <Compile Include="FrmActualizarDatosDB.Designer.cs">
+      <DependentUpon>FrmActualizarDatosDB.cs</DependentUpon>
     </Compile>
-    <Compile Include="ConsultarDatosDB.cs">
+    <Compile Include="FrmSubirDatosDB.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ConsultarDatosDB.Designer.cs">
-      <DependentUpon>ConsultarDatosDB.cs</DependentUpon>
+    <Compile Include="FrmSubirDatosDB.Designer.cs">
+      <DependentUpon>FrmSubirDatosDB.cs</DependentUpon>
     </Compile>
-    <Compile Include="BuscarXidDB.cs">
+    <Compile Include="FrmConsultarDatosDB.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="BuscarXidDB.Designer.cs">
-      <DependentUpon>BuscarXidDB.cs</DependentUpon>
+    <Compile Include="FrmConsultarDatosDB.Designer.cs">
+      <DependentUpon>FrmConsultarDatosDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarXidDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarXidDB.Designer.cs">
+      <DependentUpon>FrmBuscarXidDB.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="BuscarXidDB.resx">
-      <DependentUpon>BuscarXidDB.cs</DependentUpon>
+    <EmbeddedResource Include="FrmActualizarDatosDB.resx">
+      <DependentUpon>FrmActualizarDatosDB.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SubirDatosDB.resx">
-      <DependentUpon>SubirDatosDB.cs</DependentUpon>
+    <EmbeddedResource Include="FrmBuscarXidDB.resx">
+      <DependentUpon>FrmBuscarXidDB.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ConsultarDatosDB.resx">
-      <DependentUpon>ConsultarDatosDB.cs</DependentUpon>
+    <EmbeddedResource Include="FrmSubirDatosDB.resx">
+      <DependentUpon>FrmSubirDatosDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultarDatosDB.resx">
+      <DependentUpon>FrmConsultarDatosDB.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

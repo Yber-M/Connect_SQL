@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Proyecto12
 {
-    public partial class ConsultarDatosDB : Form
+    public partial class FrmConsultarDatosDB : Form
     {
-        public ConsultarDatosDB()
+        public FrmConsultarDatosDB()
         {
             InitializeComponent();
         }

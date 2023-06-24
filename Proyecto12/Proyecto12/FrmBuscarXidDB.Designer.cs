@@ -1,6 +1,6 @@
 ﻿namespace Proyecto12
 {
-    partial class BuscarXidDB
+    partial class FrmBuscarXidDB
     {
         /// <summary>
         /// Required designer variable.

@@ -1,6 +1,6 @@
 ﻿namespace Proyecto12
 {
-    partial class ConsultarDatosDB
+    partial class FrmConsultarDatosDB
     {
         /// <summary>
         /// Required designer variable.

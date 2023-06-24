@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Proyecto12
 {
-    public partial class SubirDatosDB : Form
+    public partial class FrmSubirDatosDB : Form
     {
-        public SubirDatosDB()
+        public FrmSubirDatosDB()
         {
             InitializeComponent();
         }

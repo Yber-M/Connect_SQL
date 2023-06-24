@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Proyecto12
 {
-    public partial class BuscarXidDB : Form
+    public partial class FrmBuscarXidDB : Form
     {
-        public BuscarXidDB()
+        public FrmBuscarXidDB()
         {
             InitializeComponent();
         }
