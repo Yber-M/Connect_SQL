@@ -9,3 +9,4 @@ D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_
 D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.CoreCompileInputs.cache
 D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\Proyecto12\Proyecto12\obj\Debug\Proyecto12.exe
 D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\Proyecto12\Proyecto12\obj\Debug\Proyecto12.pdb
+D:\4to CICLO 2023-1\Semana 12\4. (J) Gestión de Datos e Información I\Connect_SQL\Proyecto12\Proyecto12\obj\Debug\Proyecto12.Form2.resources
