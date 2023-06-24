@@ -2,12 +2,12 @@
 
 Se usa de ejemplo una tienda de productos que vende aparatos electrónicos y una tienda automovilistica.
 
-## **> CRUD**
+### **> CRUD**
 
-* Subir datos al DB
-* Consultar todos el registro del DB
-* Consultar por ID los datos del DB
-* Actualizar datos del DB
-* Eliminar los datos del DB
+* Subir un registro al DB
+* Consultar todos los registros del DB
+* Consultar por ID un registro del DB
+* Actualizar un registro del DB
+* Eliminar un registro del DB
 
 ###### Psdt: Se está usando el IDE Visual Studio 2022
