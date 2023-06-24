@@ -52,6 +52,12 @@
     <Compile Include="FrmActualizarDatosDB.Designer.cs">
       <DependentUpon>FrmActualizarDatosDB.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmDeleteDatosDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeleteDatosDB.Designer.cs">
+      <DependentUpon>FrmDeleteDatosDB.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmSubirDatosDB.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +83,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmBuscarXidDB.resx">
       <DependentUpon>FrmBuscarXidDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeleteDatosDB.resx">
+      <DependentUpon>FrmDeleteDatosDB.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmSubirDatosDB.resx">
       <DependentUpon>FrmSubirDatosDB.cs</DependentUpon>
