@@ -5,3 +5,5 @@ Se usa como ejemplo la base de datos de una tienda de productos aparatos electr√
 * Subir datos al DB
 * Consultar todos el registro del DB
 * Consultar por ID los productos del DB
+
+###### Psdt: Se est√° usando el IDE de Visual Studio 2022
