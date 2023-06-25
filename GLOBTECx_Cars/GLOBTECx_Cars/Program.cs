@@ -16,7 +16,7 @@ namespace GLOBTECx_Cars
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmDeleteCarID());
+            Application.Run(new FrmUpdateDtsCars());
         }
     }
 }
