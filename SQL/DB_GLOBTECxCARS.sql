@@ -28,11 +28,4 @@ INSERT INTO vehiculo (Placa, Marca, Modelo, Color) VALUES ('VWX234', 'Audi', 'A4
 INSERT INTO vehiculo (Placa, Marca, Modelo, Color) VALUES ('YZA567', 'Nissan', 'Sentra', 'Rojo');
 INSERT INTO vehiculo (Placa, Marca, Modelo, Color) VALUES ('BCD890', 'Hyundai', 'Elantra', 'Blanco');
 
-
-
 SELECT * FROM vehiculo;
-
-
--- TESTEANDO. NO EJECUTAR
-SELECT Placa, Marca, Modelo, Color FROM vehiculo WHERE IdVehiculo = 6
-DELETE FROM vehiculo WHERE IdVehiculo = 22 ;
