@@ -31,7 +31,7 @@ namespace GLOBTECx_Cars
             conexion.Open();
 
             // Extraemos los datos de las cajas de texto y las guardamos en variables
-            string placa = tbxPlaca.Text;
+            string placa = tbxPlaca.Text.ToUpper();
             string marca = tbxMarca.Text;
             string modelo = tbxModelo.Text;
             string color = tbxColor.Text;

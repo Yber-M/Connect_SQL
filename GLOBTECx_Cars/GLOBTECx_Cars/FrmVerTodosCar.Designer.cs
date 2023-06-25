@@ -32,6 +32,7 @@
             this.tbxVerCars = new System.Windows.Forms.TextBox();
             this.btnRecuperar = new System.Windows.Forms.Button();
             this.btnClose = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label5
@@ -46,14 +47,17 @@
             // 
             // tbxVerCars
             // 
-            this.tbxVerCars.Location = new System.Drawing.Point(33, 124);
+            this.tbxVerCars.Font = new System.Drawing.Font("Microsoft JhengHei", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxVerCars.Location = new System.Drawing.Point(33, 182);
             this.tbxVerCars.Multiline = true;
             this.tbxVerCars.Name = "tbxVerCars";
+            this.tbxVerCars.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.tbxVerCars.Size = new System.Drawing.Size(723, 319);
             this.tbxVerCars.TabIndex = 11;
             // 
             // btnRecuperar
             // 
+            this.btnRecuperar.Font = new System.Drawing.Font("mononoki", 10F);
             this.btnRecuperar.Location = new System.Drawing.Point(33, 74);
             this.btnRecuperar.Name = "btnRecuperar";
             this.btnRecuperar.Size = new System.Drawing.Size(591, 44);
@@ -64,6 +68,7 @@
             // 
             // btnClose
             // 
+            this.btnClose.Font = new System.Drawing.Font("mononoki", 10F);
             this.btnClose.Location = new System.Drawing.Point(630, 74);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(126, 44);
@@ -72,11 +77,22 @@
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft JhengHei", 10.2F);
+            this.label1.Location = new System.Drawing.Point(34, 160);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(454, 22);
+            this.label1.TabIndex = 14;
+            this.label1.Text = "ID    ||       PLACA      ||     MARCA    ||    MODELO   ||   COLOR";
+            // 
             // FrmVerTodosCar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(789, 463);
+            this.ClientSize = new System.Drawing.Size(789, 513);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnRecuperar);
             this.Controls.Add(this.tbxVerCars);
@@ -94,5 +110,6 @@
         private System.Windows.Forms.TextBox tbxVerCars;
         private System.Windows.Forms.Button btnRecuperar;
         private System.Windows.Forms.Button btnClose;
+        private System.Windows.Forms.Label label1;
     }
 }

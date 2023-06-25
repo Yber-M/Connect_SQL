@@ -52,6 +52,12 @@
     <Compile Include="FrmAddCar.Designer.cs">
       <DependentUpon>FrmAddCar.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmBuscarCarID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarCarID.Designer.cs">
+      <DependentUpon>FrmBuscarCarID.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmVerTodosCar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmAddCar.resx">
       <DependentUpon>FrmAddCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarCarID.resx">
+      <DependentUpon>FrmBuscarCarID.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmVerTodosCar.resx">
       <DependentUpon>FrmVerTodosCar.cs</DependentUpon>

@@ -40,11 +40,6 @@ namespace GLOBTECx_Cars
             SqlDataReader registros = comando.ExecuteReader();
 
             // Recorremos el indice de las tablas
-            tbxVerCars.AppendText("ID     ||     PLACA     ||    MARCA    ||    MODELO   ||   COLOR");
-            tbxVerCars.AppendText(Environment.NewLine);
-            tbxVerCars.AppendText("--------------------------------------------------------------------------------------------------");
-            tbxVerCars.AppendText(Environment.NewLine);
-
             while (registros.Read())
             {
                 // Mostramos en la TextBox el IDVEHICULO
