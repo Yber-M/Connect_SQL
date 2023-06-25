@@ -10,4 +10,4 @@ Se usa de ejemplo una tienda de productos que vende aparatos electrónicos y una
 * Actualizar un registro del DB
 * Eliminar un registro del DB
 
-###### Psdt: Se está usando el IDE Visual Studio 2022
+###### Psdt: Se está usando el IDE Visual Studio 2022 y SQL Server Management 19
