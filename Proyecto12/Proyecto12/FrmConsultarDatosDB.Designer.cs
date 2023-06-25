@@ -62,7 +62,7 @@
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
-            // Form2
+            // FrmConsultarDatosDB
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -70,7 +70,7 @@
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.tbxProductos);
             this.Controls.Add(this.btnRecuperar);
-            this.Name = "Form2";
+            this.Name = "FrmConsultarDatosDB";
             this.Text = "Form2";
             this.ResumeLayout(false);
             this.PerformLayout();
